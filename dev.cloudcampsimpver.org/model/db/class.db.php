@@ -2,9 +2,7 @@
 
   /**
     *** This File is containing Database realated functions 
-    *** @author THK Groups
     *** @package packages
-    *** @copyright virtueinfo
     *** @version 1.0
     **/
     
