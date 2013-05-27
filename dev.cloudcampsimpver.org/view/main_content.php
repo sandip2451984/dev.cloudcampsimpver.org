@@ -23,7 +23,7 @@
   <p class="right spcr-t"><a href="register.php"  class="btnLg">Register Now > </a> </p>
   </div> <!-- end of div class cBx1 -->
   
-  <!-- For Map -->
+  <!-- For Display Map -->
   
   <div class="cBx2">
   <?php require_once('eventMap.php');?>
