@@ -7,9 +7,9 @@
 /**
 ** This are files which helps to access database for connection purpose
 **/
-$as__sm['DB_HOST'] = 'localhost';
-$as__sm['DB_SERVERNAME'] = 'root';
-$as__sm['DB_PASSWORD'] = '';
-$as__sm['DB_NAME'] = 'campsite';
+$as__sm['DB_HOST'] = 'cloudcamp.cfp6lld7igql.us-east-1.rds.amazonaws.com';
+$as__sm['DB_SERVERNAME'] = 'dave';
+$as__sm['DB_PASSWORD'] = 'deepblue';
+$as__sm['DB_NAME'] = 'campsite_php';
 
 ?>
