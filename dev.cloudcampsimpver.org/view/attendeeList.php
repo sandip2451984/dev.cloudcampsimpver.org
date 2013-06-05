@@ -6,6 +6,7 @@
 			<a href="proposed-sessions.html" target="_blank">
       <h3><?php echo $attendee['first_name']."&nbsp;".$attendee['last_name']?></h3>
       </a>
+      <!-- Enter Website Name -->
 			<p> Website:<a href="<?php echo $attendee['website']?>"> <?php echo $attendee['website']?> </a></p>
       <p>Blog: <a href="<?php echo $attendee['blog']?>"> <?php echo $attendee['blog']?></a></p>
 	
