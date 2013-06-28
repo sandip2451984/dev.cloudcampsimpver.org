@@ -9,7 +9,7 @@
 /* Globaly start Session so it's not require in any model to start session with session_start() variable*/
   session_start(); 
   
-  header("Expires: Thu, 15 Apr 2010 20:00:00 GMT");    
+  //header("Expires: Thu, 15 Apr 2010 20:00:00 GMT");    
    
 /*
  * Including 1st Level global.inc file which containing global paths and global variables 
