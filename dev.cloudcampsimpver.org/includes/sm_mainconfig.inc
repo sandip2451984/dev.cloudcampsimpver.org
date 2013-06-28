@@ -29,7 +29,7 @@
   * @parameter Database_hostname,Database_ServerName,Database_Password,Database_Name
   * @return Database Connection Object   
   */
-  $o__objDB->db_connect($GLOBALS['DB_HOST'],$GLOBALS['DB_SERVERNAME'],$GLOBALS['DB_PASSWORD'],$GLOBALS['DB_NAME']);
+  $o__objDB->db_connect($GLOBALS['DB_HOST'],$GLOBALS['DB_USERNAME'],$GLOBALS['DB_PASSWORD'],$GLOBALS['DB_NAME']);
   
   /* Just make Database Object global so we can able to access it in any class(model) */
   $GLOBALS['o__objDB'] = $o__objDB;

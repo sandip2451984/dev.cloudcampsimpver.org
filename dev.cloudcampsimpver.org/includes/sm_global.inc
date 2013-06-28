@@ -15,7 +15,7 @@
   **/  
   
    $GLOBALS['DB_HOST']=$as__sm['DB_HOST'];
-   $GLOBALS['DB_SERVERNAME']=$as__sm['DB_SERVERNAME'];
+   $GLOBALS['DB_USERNAME']=$as__sm['DB_USERNAME'];
    $GLOBALS['DB_PASSWORD']=$as__sm['DB_PASSWORD'];
    $GLOBALS['DB_NAME']=$as__sm['DB_NAME'];
 
