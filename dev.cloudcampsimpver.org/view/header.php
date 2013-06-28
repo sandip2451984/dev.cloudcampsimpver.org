@@ -29,7 +29,7 @@
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>  <!-- royalslider, jkmegamenu -->
 	<script class="rs-file" src="web/js/jquery.royalslider.min.js"></script>
-	<script type="text/javascript" src="web/js/jquery.cycle.all.min.js"></script> <!-- jQuery cycle -->
+	<script type="text/javascript" src="web/js/jquery.cycle.all.min.js"></script> <!-- Include jQuery cycle -->
 	
 	<script src="web/js/jkmegamenu.js">
 	/**************************************************************
